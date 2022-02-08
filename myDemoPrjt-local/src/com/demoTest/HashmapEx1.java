@@ -16,7 +16,6 @@ public class HashmapEx1 {
 		hs.add(20);
 		System.out.println(hs);
 		System.out.println(hs.size());
-		// Print test
 		System.out.println(hs.contains(60));
 	}
 
